@@ -33,8 +33,8 @@ Key features:
 Here presented hardware is available as [Open source hardware](https://oshwa.org/resources/open-source-hardware-definition/) under the [CERN-OHL-S](https://cern-ohl.web.cern.ch/) license.
 
 ## Future works 
-- [ ] first assembly and testing
-- [ ] 3D printed case design (WIP)
+- [x] first assembly and testing - published version works
+- [x] 3D printed case design - case files available in [3D_models](3D_models/) 
 - [ ] update an inner layer to power plane
 - [ ] check necessity of components (implemented according to [.ioc](https://github.com/pokusew/lionkey/blob/main/targets/stm32h533/stm32h533.ioc))
 - [ ] update power switching mechanism
