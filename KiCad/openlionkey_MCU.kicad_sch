@@ -3835,7 +3835,7 @@
 		)
 		(uuid "489207f7-d6ec-4f8a-95fa-c7e499a571d4")
 	)
-	(label "OSC32_OUT"
+	(label "OSC_OUT"
 		(at 106.68 110.49 0)
 		(effects
 			(font
@@ -3975,7 +3975,7 @@
 		)
 		(uuid "e13d84ce-0b82-4e87-b24a-bae129c7e12d")
 	)
-	(label "OSC32_IN"
+	(label "OSC_IN"
 		(at 106.68 107.95 0)
 		(effects
 			(font
