@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.5,
-          "width": 0.25
+          "height": 0.9,
+          "width": 0.35
         },
         "silk_line_width": 0.153,
         "silk_text_italic": false,
@@ -90,6 +90,10 @@
         ],
         [
           "lib_footprint_mismatch|113366600|156289200|b61dc4ee-262b-40a3-90ae-f6b6406d1d6d|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|117850000|150600000|61c7bec1-04e6-46d2-9757-2bda4c441057|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
@@ -579,7 +583,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "manufacturing/",
+      "plot": "manufacturing/v0_2",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "OpenLionKey.step",
