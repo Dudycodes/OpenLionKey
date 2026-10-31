@@ -777,6 +777,30 @@
     [
       "659b6038-cff2-4500-9308-77afb7612593",
       "Root"
+    ],
+    [
+      "9392cc87-e0bd-4984-af8b-6370ae772c05",
+      "USB_C"
+    ],
+    [
+      "2ed6371f-16e2-425e-a460-b0f6b25c2753",
+      "USB_A"
+    ],
+    [
+      "17897a9b-28c7-4719-bfb8-de9c845f7ce7",
+      "PWR"
+    ],
+    [
+      "75224de3-1a92-4af6-8789-344dbcdc8f83",
+      "USB_FILTER_MUX"
+    ],
+    [
+      "6c56bb1b-a0ce-4c70-bbed-18f23218f42a",
+      "MCU"
+    ],
+    [
+      "95b0ca1c-e789-48d1-b56c-d20dfb971819",
+      "USER_PERIPHERALS"
     ]
   ],
   "text_variables": {}
