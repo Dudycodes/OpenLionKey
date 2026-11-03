@@ -13595,7 +13595,7 @@
 		(layer "User.1")
 		(uuid "fdcd117f-26e5-40ed-bc4e-5f78cda3657d")
 	)
-	(gr_text "OpenLionKey v0.1"
+	(gr_text "OpenLionKey v0.2"
 		(at 112.38 165.01 0)
 		(layer "B.SilkS")
 		(uuid "16c407af-37a4-411f-bc78-f27be13c944a")
